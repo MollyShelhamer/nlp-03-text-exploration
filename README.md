@@ -138,6 +138,11 @@ git push -u origin main
 
 </details>
 
+## Phase 4 Technical Modification
+- In section 9, I changed the visualization category to "cat" instead of "dog."
+
+
+
 ## Notes
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
