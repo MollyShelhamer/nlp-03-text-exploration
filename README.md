@@ -141,7 +141,8 @@ git push -u origin main
 ## Phase 4 Technical Modification
 - In section 9, I changed the visualization category to "cat" instead of "dog."
 
-
+## Phase 5 New Problem
+- I changed the corpus
 
 ## Notes
 
